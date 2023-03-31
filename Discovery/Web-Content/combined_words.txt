@@ -492,6 +492,7 @@ act
 action
 actions
 activate
+activation
 active
 activeCollab
 activex
@@ -608,6 +609,7 @@ alert
 alerts
 alias
 aliases
+alive
 all
 all-wcprops
 alltime
@@ -2057,6 +2059,7 @@ header_logo
 headers
 headlines
 health
+healthz
 healthcare
 hello
 helloworld
@@ -4941,7 +4944,6 @@ sorry
 .7
 111
 76
-activation
 dmca
 59
 warranty
@@ -12602,7 +12604,6 @@ ais
 ajax_dz
 alberghi
 albmgr
-alive
 amecache
 amenities
 andrea
@@ -39900,6 +39901,10 @@ Suche
 TermsOfUse
 Tests
 WP
+.hg
+.bzr
+._darcs
+BitKeeper
 AR
 About-Us
 Australia
